@@ -1,0 +1,13 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+/* Common styles */
+@import url('./reset.css');
+@import url('./base.css');
+@import url('./form.css');
+@import url('./gellary.css');
+@import url('./loader.css');
+@import url('./loadbtn.css');
