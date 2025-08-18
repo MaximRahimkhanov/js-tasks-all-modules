@@ -106,3 +106,4 @@ function smoothScrollAfterLoad() {
     behavior: 'smooth'
   });
 }
+// something change роблю зміну
